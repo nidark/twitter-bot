@@ -37,11 +37,11 @@ $ npm install twitter-api-v2 --save
 This will install all the dependencies required, below is an example of how the dependencies should appear within the package.json file after we've installed them:
 
 ```json
-  "dependencies": {
-    "cron": "^2.1.0",
-    "dotenv": "^16.0.3",
-    "twitter-api-v2": "^1.12.8"
-  }
+"dependencies": {
+  "cron": "^2.1.0",
+  "dotenv": "^16.0.3",
+  "twitter-api-v2": "^1.12.8"
+}
 ```
 
 ## Example Functions
