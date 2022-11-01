@@ -22,7 +22,7 @@ client.v2.tweet({ text: 'Hello, world!' });
 client.v1.updateAccountProfile({ name: '🤖' });
 
 // update account description
-client.v1.updateAccountProfile({ description: 'This is an automated account' });
+client.v1.updateAccountProfile({ description: 'This is an automated account.' });
 
 // update account location
 client.v1.updateAccountProfile({ location: 'New York, USA' });
