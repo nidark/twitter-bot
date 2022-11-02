@@ -8,7 +8,7 @@ This guide will show you how to set up the basic functionalities of a Twitter au
 [![language](https://img.shields.io/badge/language-JavaScript-forestgreen.svg)](https://nodejs.org)
 
 ## Installation
-To get started, download following [repository](https://github.com/juuswtf/twitter-bot/example) and ensure that it is installed properly. This will help setup the basic files required to begin.
+To get started, download the following [repository](https://github.com/juuswtf/twitter-bot/example) and ensure that it is installed properly. This will help setup the basic files required to begin.
 ```
 git clone https://github.com/juuswtf/twitter-bot/example.git
 ```
