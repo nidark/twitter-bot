@@ -78,7 +78,7 @@ const accountName = async () => {
 
 Feel free to adjust these functions to better suit your needs. You can browse the [Twitter API Docs](https://developer.twitter.com/en/docs/twitter-api) to learn how to accomplish more complex tasks with the other functions that exist. 
 
-## Extras
+## Other
 
 #### Automated Account Label
 - To toggle the visibility of the <samp>```automated```</samp> account label navigate to <samp>```twitter > settings > account > account information > automation```</samp> — additional details on automated account labels can be found at the [Twitter Help Center](https://help.twitter.com/en/using-twitter/automated-account-labels).
